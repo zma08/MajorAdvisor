@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="StudentContext-Web.config Connection String" description="StudentContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\MSSQLLocalDB;&#xD;&#xA;         AttachDbFilename=|DataDirectory|\Record.mdf;&#xD;&#xA;         Integrated Security=True" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\mazhe\\Documents\\cs460\\HW5\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StudentContext']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\mazhe\\Desktop\\majorAdvisor\\HW5\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StudentContext']/@connectionString" />
   </parameter>
 </parameters>

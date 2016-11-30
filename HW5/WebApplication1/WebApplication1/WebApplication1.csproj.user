@@ -8,7 +8,7 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>WebApplication1.DAL.StudentContext</WebStackScaffolding_DbContextTypeFullName>
-    <NameOfLastUsedPublishProfile>MajorAdvisorForm %283%29</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>MajorAdvisor</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

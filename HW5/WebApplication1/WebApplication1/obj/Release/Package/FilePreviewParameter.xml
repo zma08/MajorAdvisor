@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="MajorAdvisorForm" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\mazhe\\Documents\\cs460\\HW5\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\mazhe\\Documents\\cs460\\HW5\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp$" />
+  <parameter name="IIS Web Application Name" description="" value="MajorAdvisor" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\mazhe\\Desktop\\majorAdvisor\\HW5\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\mazhe\\Desktop\\majorAdvisor\\HW5\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp$" />
   </parameter>
   <parameter name="StudentContext-Web.config Connection String" description="" value="Data Source=hw4majoradvisorserver.database.windows.net;Initial Catalog=majoradvisorf0rm_db;User ID=zma08;Password=Mzd862400" tags="">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\mazhe\\Documents\\cs460\\HW5\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StudentContext']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\mazhe\\Desktop\\majorAdvisor\\HW5\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StudentContext']/@connectionString" />
   </parameter>
 </parameters>
